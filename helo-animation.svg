@@ -687,4 +687,8 @@
 		</g>
 	</g>
 </g>
+<script xlink:href="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
+<script xlink:href="https://therichardsonstudio.com/helo/DrawSVGPlugin.min.js"></script>
+<script xlink:href="https://cdn.jsdelivr.net/gh/jooeleoo/helo-animation@main/helo-animation.js"></script>
+
 </svg>
